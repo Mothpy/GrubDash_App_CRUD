@@ -15,7 +15,7 @@ Download Files: Ensure you have downloaded the project files.
 
 Install Dependencies: Run npm install in the project directory to install required dependencies.
 
-# Important Notes:
+## Important Notes:
 
 Use Node.js version 18 (node -v).
 
