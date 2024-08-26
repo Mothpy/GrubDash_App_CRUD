@@ -3,12 +3,12 @@ Project Goal:
 
 Build an API with complex validation for managing dishes and orders for a food delivery app.
 
-##Tasks:
+## Tasks:
 
-## Implement routes for managing dishes (CRUD - Create, Read, Update, and List).
-## Implement routes for managing orders (CRUDL - Create, Read, Update, Delete, and List).
-## Utilize middleware functions for validation and error handling.
-## Follow RESTful design principles.
+Implement routes for managing dishes (CRUD - Create, Read, Update, and List).
+Implement routes for managing orders (CRUDL - Create, Read, Update, Delete, and List).
+Utilize middleware functions for validation and error handling.
+Follow RESTful design principles.
 Running the Project:
 
 Download Files: Ensure you have downloaded the project files.
@@ -21,14 +21,14 @@ You are not required to connect the API to a frontend for this project.
 Maintainability and code clarity are crucial.
 API Endpoints:
 
-##Dishes:
+## Dishes:
 
 GET /dishes: Lists all dishes.
 POST /dishes: Creates a new dish.
 GET /dishes/:dishId: Retrieves a specific dish by ID.
 PUT /dishes/:dishId: Updates a dish by ID.
 
-##Orders:
+## Orders:
 
 GET /orders: Lists all orders.
 POST /orders: Creates a new order.
