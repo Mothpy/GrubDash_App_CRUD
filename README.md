@@ -12,10 +12,13 @@ Follow RESTful design principles.
 Running the Project:
 
 Download Files: Ensure you have downloaded the project files.
+
 Install Dependencies: Run npm install in the project directory to install required dependencies.
-Important Notes:
+
+# Important Notes:
 
 Use Node.js version 18 (node -v).
+
 Refer to the README.md file in the project directory for detailed instructions.
 You are not required to connect the API to a frontend for this project.
 Maintainability and code clarity are crucial.
