@@ -6,9 +6,13 @@ Build an API with complex validation for managing dishes and orders for a food d
 ## Tasks:
 
 Implement routes for managing dishes (CRUD - Create, Read, Update, and List).
+
 Implement routes for managing orders (CRUDL - Create, Read, Update, Delete, and List).
+
 Utilize middleware functions for validation and error handling.
+
 Follow RESTful design principles.
+
 Running the Project:
 
 Download Files: Ensure you have downloaded the project files.
@@ -37,9 +41,13 @@ PUT /dishes/:dishId: Updates a dish by ID.
 ## Orders:
 
 GET /orders: Lists all orders.
+
 POST /orders: Creates a new order.
+
 GET /orders/:orderId: Retrieves a specific order by ID.
+
 PUT /orders/:orderId: Updates an order by ID.
+
 DELETE /orders/:orderId: Deletes an order by ID (only allowed for pending orders).
 Validation:
 
