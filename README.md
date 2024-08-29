@@ -27,8 +27,11 @@ API Endpoints:
 ## Dishes:
 
 GET /dishes: Lists all dishes.
+
 POST /dishes: Creates a new dish.
+
 GET /dishes/:dishId: Retrieves a specific dish by ID.
+
 PUT /dishes/:dishId: Updates a dish by ID.
 
 ## Orders:
